@@ -6,7 +6,7 @@ import webbrowser  # To open the link in the default browser
 
 # Function to display a formatted header
 def display_header():
-    print("SPOTIFY MUSIC DOWNLOADER".center(50))
+    print("VINYL RIP MUSIC DOWNLOADER".center(50))
     print("=" * 50)
 
 # Display the header
@@ -59,5 +59,5 @@ except json.JSONDecodeError:
 
 # Footer
 print("\n" + "=" * 50)
-print("Thank you for using Spotify Music Downloader!".center(50))
+print("Thank you for using Vinyl Rip Music Downloader!".center(50))
 print("=" * 50)
