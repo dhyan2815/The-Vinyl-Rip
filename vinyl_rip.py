@@ -1,3 +1,5 @@
+'''THE VINYL RIP MUSIC DOWNLOADER '''
+
 import http.client
 import json
 import webbrowser  # To open the link in the default browser
