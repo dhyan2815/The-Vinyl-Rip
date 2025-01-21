@@ -6,7 +6,6 @@ import webbrowser  # To open the link in the default browser
 
 # Function to display a formatted header
 def display_header():
-    print("=" * 50)
     print("SPOTIFY MUSIC DOWNLOADER".center(50))
     print("=" * 50)
 
